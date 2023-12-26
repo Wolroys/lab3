@@ -1,3 +1,5 @@
+package generics;
+
 import java.util.Map;
 
 public interface CountMap<T> {
